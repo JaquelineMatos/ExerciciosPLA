@@ -16,6 +16,13 @@ Consolidar o aprendizado em **raciocínio lógico e resolução de problemas com
 
 ### 📘 Desafios Desenvolvidos
 
+1. [Inversão de Nome](Desafios/ex1_inverter_nome.py)
+2. [Função de Cálculo com Imposto](Desafios/ex2_soma_imposto.py)
+3. [Exibição de Letras em Maiúsculo](Desafios/ex3_letras_maiusculas.py)
+4. [Validação de CPF](Desafios/ex4_validar_cpf.py)
+5. [Quadrado Mágico](Desafios/ex5_quadrado_magico.py)
+6. [Construção de Matriz A (3x2)](Desafios/ex6_matriz_3x2.py)
+
 #### 🧩 Desafio 1 — Inversão de Nome
 Solicita o nome do usuário (em letras maiúsculas ou minúsculas) e exibe o nome e sua versão invertida.  
 **Conceitos:** entrada de dados, manipulação de strings, slicing (`[::-1]`).
